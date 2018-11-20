@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 var fs = require("fs");
 
 var fileName = "njs-new-file-3.txt";
