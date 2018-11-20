@@ -1,1 +1,1 @@
-This repository contains exercises for learning NodeJS.
+This repository contains exercises for learning NodeJS and Git.
